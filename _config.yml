@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Leo's Homepage"
 title_separator          : "-"
-name                     : &name "Leo Cahya Dinendra"
+name                     : &name "Welcome!"
 description              : &description "Subsurface Data Management"
 url                      : https://leocd91.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
