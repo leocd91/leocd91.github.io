@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Hello there, I'm Leo C Dinendra! 👋
+## Hello there, I'm Leo! 👋
 
 ### I am a Geoscientist who really into Computational Geosciences, Machine Learning, Data Analytics, and Visualization!
 - 🔭 I’m currently working on Machine Learning stuff in Oil and Gas Problem and Subsurface Data Management.
