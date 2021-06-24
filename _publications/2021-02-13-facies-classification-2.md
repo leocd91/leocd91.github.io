@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning Seismic Facies Classification"
 collection: publications
-permalink: /publication/2021-13-02-facies-classification-2
+permalink: /publication/2021-02-13-facies-classification-2
 excerpt: 'Deep Learning Seismic Facies Classification'
 date: 2021-02-13
 venue: 'LinkedIn'
