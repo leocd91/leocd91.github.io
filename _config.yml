@@ -85,7 +85,7 @@ author:
   bio              : "Subsurface Data Management, Computational Geophysicist"
   location         : "Indonesia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=ramVizwAAAAJ"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Leo_Cahya_Dinendra2"
