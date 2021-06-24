@@ -9,6 +9,9 @@ paperurl: 'https://www.linkedin.com/posts/leo-c-0988727b_seismic-deeplearning-ma
 citation: ''
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+My attemps at solving the facies classification problem using deep learning. Mainly using python with pytorch package.
+
+[Link here.](https://www.linkedin.com/posts/leo-c-0988727b_seismic-deeplearning-machinelearning-activity-6773667325729128448-cK9C)
+
 ![Demo](https://raw.githubusercontent.com/leocd91/leocd91.github.io/master/images/facies.PNG)
 
