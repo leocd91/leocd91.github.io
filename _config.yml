@@ -1,0 +1,107 @@
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+minimal_mistakes_skin: "air"
+
+# Site identity
+locale: "en-US"
+title: "Meus Proteus"
+title_separator: "|"
+subtitle: "Tech changes. I maintain backward compatibility."
+name: "Leo Dinendra"
+
+description: >-
+  Leo Dinendra — geoscientist and data science / machine learning / AI
+  practitioner with multiple ML competition wins (ThinkOnward, AIcrowd,
+  Shell's Xeek). Notes on geoscience, ML, competitions, and changing ideas.
+
+url: "https://leocd91.github.io"
+baseurl: ""
+repository: "leocd91/leocd91.github.io"
+
+# Social identity (drives Person schema via jekyll-seo-tag)
+social:
+  name: "Leo Dinendra"
+  links:
+    - "https://github.com/leocd91"
+    - "https://www.linkedin.com/in/leo-dinendra-0988727b"
+
+# Site behavior
+timezone: "Asia/Jakarta"
+words_per_minute: 200
+enable_copy_code_button: true
+breadcrumbs: false
+search: false
+
+# Author sidebar
+author:
+  name: "Leo Dinendra"
+  avatar: "/assets/profilepic.jpg"
+  bio: "Geo-Data-AI-Comp-scientist-ish"
+  location: "Indonesia"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/leocd91"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/leo-dinendra-0988727b"
+
+# Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/leocd91"
+
+# Post defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      show_date: true
+      share: false
+      related: true
+      comments: false
+
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# Markdown
+markdown: kramdown
+highlighter: rouge
+
+# Permalinks
+permalink: /posts/:year/:month/:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-include-cache
+
+# Files excluded from the generated site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - instructions.md
+  - vendor

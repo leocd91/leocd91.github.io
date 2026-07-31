@@ -1,0 +1,15 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "About Me"
+    url: /about/
+
+  - title: "Competitions"
+    url: /competitions/
+
+  - title: "Tags"
+    url: /tags/
+
+  - title: "Categories"
+    url: /categories/
