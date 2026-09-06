@@ -26,7 +26,7 @@ Before [Alan Turing asked whether machines could think](https://academic.oup.com
 
 Forged from bronze by Hephaestus, the god of craft and metallurgy, Talos guarded the island of Crete. Three times each day, he circled its shores and hurled boulders at approaching ships.
 
-In Apollonius of Rhodes's [*Argonautica*](https://www.theoi.com/Text/ApolloniusRhodius4.html), his metallic body contained a single vein near the ankle. It carried ichor, the life-giving fluid of the gods, and was protected only by a thin layer of skin. Damage that vulnerable point, and the bronze guardian would fall.
+In Apollonius of Rhodes's [*Argonautica*](https://www.theoi.com/Text/ApolloniusRhodius4.html), his metallic body contained a single vein near the ankle. It carried ichor, the life-giving fluid of the gods, and was protected only by a thin layer of skin. Damage that vulnerable point, and the bronze guardian would fall. When Talos collapsed, the illusion of total security shattered with him. The Cretans had outsourced their defense so completely to an invincible machine that they had forgotten how to defend themselves and leaving an entire civilization utterly helpless.
 
 In her book *Gods and Robots*, classicist Adrienne Mayor describes Talos as a product of *biotechne*, life crafted through art and science. He could move independently, respond to his surroundings, and repeat an assigned task without tiring. A [*Smithsonian Magazine* article](https://www.smithsonianmag.com/history/was-talos-the-bronze-automaton-who-guarded-the-island-of-crete-in-greek-myth-an-early-example-of-artificial-intelligence-180986467/) explores how closely this ancient automaton resembles modern ideas about robots and artificial intelligence.
 
@@ -49,7 +49,6 @@ When I began joining them in 2020, nearly every attempt ended in defeat. Weekend
 A week-long data science workshop, a handful of online courses, and several books had once made me feel ready to give a TED Talk or impress colleagues with jargon. Competition quickly revealed how little any of that meant without the ability to turn knowledge into something that actually worked.
 
 Most ideas failed before producing anything useful.
-
 That friction made the competitions rewarding.
 
 A better leaderboard position was always welcome, but the deeper satisfaction came from understanding something that had previously been confusing. Each submission exposed another gap in knowledge. Each failure created a reason to return.
