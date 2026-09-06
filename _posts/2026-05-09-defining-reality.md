@@ -1,7 +1,6 @@
 ---
-
 title: "Defining Reality"
-date: 2026-09-05 20:00:00 +0700
+date: 2026-05-09 20:00:00 +0700
 permalink: /posts/2026/09/defining-reality/
 categories:
   - Reflection
@@ -11,7 +10,7 @@ tags:
 excerpt: "So when does domain expertise finally stop mattering?"
 header:
   teaser: /assets/images/navy-medicine-oaPhR4_967Q-unsplash.jpg
-
+---
 <p align="center">
   <img
     src="{{ '/assets/images/navy-medicine-oaPhR4_967Q-unsplash.jpg' | relative_url }}"
